@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SaieshShirodkar7k&color=blue)
 ![Followers](https://img.shields.io/github/followers/SaieshShirodkar7k?style=social)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaieshShirodkar7k&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaieshShirodkar7k&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaieshShirodkar7k&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
