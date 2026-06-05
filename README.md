@@ -7,10 +7,11 @@
 
 I'm Saiesh Shirodkar, a Software Developement student.
 
-I am passionate about Full Stack Development, UI/UX Design, Android Development, AI & Machine Learning, and building modern web applications that solve real-world problems.
+I am passionate about Full Stack Development, UI/UX Design, Android Development and building modern web applications that solve real-world problems.
 
 My goal is to become a highly skilled Software Engineer capable of creating scalable applications and impactful digital experiences.
 
+Skills:
 React.js
 Node.js
 JavaScript
@@ -30,6 +31,7 @@ Database Administration
 UI/UX Design
 Software Engineering
 
+Projects:
 🚀 FlowFi – Personal Finance Management Platform
 🚀 Apex Finance – Financial Services Application
 🚀 Velo Cycle Store – E-Commerce & Rental Platform
