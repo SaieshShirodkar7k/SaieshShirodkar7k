@@ -2,7 +2,11 @@
 ![Followers](https://img.shields.io/github/followers/SaieshShirodkar7k?style=social)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaieshShirodkar7k&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
+[![Saiesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaieshShirodkar7k&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,cpp,c,mongodb,html,css,git,github,linux,vscode,androidstudio" />
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6b8b4f-f9f4-4f8e-8fb8-5b0d5d6d5f89.gif" width="100%">
 👨‍💻 About Me
 
 I'm Saiesh Shirodkar, a Software Developement student.
