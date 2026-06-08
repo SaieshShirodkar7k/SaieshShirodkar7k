@@ -39,7 +39,7 @@ Projects:
 🚀 FlowFi – Personal Finance Management Platform
 🚀 Apex Finance – Financial Services Application
 🚀 Velo Cycle Store – E-Commerce & Rental Platform
-🚀 NeuroLearn AI – AI Study Assistant (In Development)
+🚀SchemaVision-Database-Schema-Visualizer - An interactive database schema visualization tool
 
 
 ### 🌐 Connect With Me
